@@ -1,0 +1,146 @@
+Cloud				Cloud Provider 
+---------			--------------
+AWS				Amazon 
+Azure 				Microsoft 
+GCP				Google 
+Alibaba cloud			Alibaba 
+IBM cloud			IBM
+and etc.	
+
+
+Types of Cloud Business/Service Models
+=======================================
+We have three types of cloud service models.
+
+1) IaS - Infrastructure as a service 
+
+2) PaS - Platform as a service 
+
+3) SaS - Software as a service 
+
+All cloud providers deal with three service models.
+
+All comes up and ends up with shared responsibilities.
+
+Some group of expertise engineers will decide which business model is good for their organization.
+
+Diagram: aws2.1
+
+
+How to create an account in AWS
+================================
+To create an account in AWS we required followings.
+
+1) Debit/Credit Card
+
+2) Email Id 
+
+3) Minimum 2 rupees Balance in account
+
+If we use debit card to create an account then it will take less then 24 hours.
+
+If we use credit card to create an account then it will take less then 2 or 3 hours.
+
+Diagram: aws2.2
+
+
+Types of Operating Systems
+===========================
+Operating system is a mediator or interface between a user and hardware components.
+
+We have two types of operating systems.
+
+1) GUI  (Graphical User Interface)
+
+   ex:
+		windows
+ 	
+
+2) CLI  (Command Line Interface)
+   
+   ex:
+		Linux 
+
+Note:
+-----
+	In the space of operating system , linux is widely used.
+	99% of enterprise infrastructure on CLI and that too linux.
+
+
+Importance of linux
+===================
+
+Q) Who was the richest person for a long period of time ?
+
+   Bill Gates (It is because windows licensing model)
+
+
+
+Linus Torvalds is a man behind the linux OS.
+
+He thought, to run operating system why should I buy hardware from you and why have to pay for licencing to it.By keeping these aspects in mind he created an Operating system which is free for every one and everyone should have capability to access code of it. 
+
+He started an open source project called linux (linux kernel).
+
+kernel is a first layer of the OS.
+
+Every OS is having it's own kernel.
+ex:
+	Linux kernel : it is a piece of software which interacts with hardware.
+		> He wants to make a free CLI OS
+		> Should run on any hardware
+		> OS should be open source
+		> GNUX (Generally Not Unix)
+	
+There are 300+ flavours / Distributions in linux(vendors).
+
+All the 300+ operating system are clone either from "RedHat OS" or "Debian".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

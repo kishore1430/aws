@@ -1,0 +1,91 @@
+Linux Server in AWS
+===================
+Linux provides two ways authentication.
+
+1) username and password (recommanded)
+
+2) username with key (Not recommanded but good for learning)
+
+
+Key based Authentication  / SSH key pair
+----------------------------------------
+Key based authentation contains two files.
+
+1) public key 
+
+2) private key 
+
+To deal with SSH mechanism we need to install putty in our computer (windows user).
+
+Diagram: aws3.1
+
+
+
+How to create a linux server in AWS using username with key
+============================================================
+
+step1:
+-------
+	Download and Install Putty software for windows OS.
+	ex:
+		https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+		
+		Diagram: aws3.2 to aws3.6
+step2:
+------
+	Login in AWS account to create a linux server.
+
+step3:
+-----
+	Select "US EAST (North Virginia)" as a region.
+
+step4:
+-----
+	Now Launch EC2 Instance using CentOS 7 and SSH key.
+
+step5:
+------
+	Copy the Public IPv4 address from AWS account.
+
+step6:
+------
+	Open the putty from your computer.
+
+step7:
+-------
+	Paste the Public IPv4 address in putty and select SSH private key then open.
+
+step8:
+-------
+	Login to putty terminal as centos after clicking accept button.
+
+step9:
+------
+	Once the practice is completed terminate the server.
+
+
+Diagrams: aws3.7 to aws3.32
+
+
+AWS Security group 
+===================
+To connect any EC2 instance we need create a security group otherwise instance creation will failed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
